@@ -1,0 +1,6 @@
+C:\Users\laiz.araujo\Desktop\Estudos\CalculadoraConsole\CalculadoraConsole\bin\Debug\CalculadoraConsole.exe.config
+C:\Users\laiz.araujo\Desktop\Estudos\CalculadoraConsole\CalculadoraConsole\bin\Debug\CalculadoraConsole.exe
+C:\Users\laiz.araujo\Desktop\Estudos\CalculadoraConsole\CalculadoraConsole\bin\Debug\CalculadoraConsole.pdb
+C:\Users\laiz.araujo\Desktop\Estudos\CalculadoraConsole\CalculadoraConsole\obj\Debug\CalculadoraConsole.csprojAssemblyReference.cache
+C:\Users\laiz.araujo\Desktop\Estudos\CalculadoraConsole\CalculadoraConsole\obj\Debug\CalculadoraConsole.exe
+C:\Users\laiz.araujo\Desktop\Estudos\CalculadoraConsole\CalculadoraConsole\obj\Debug\CalculadoraConsole.pdb
